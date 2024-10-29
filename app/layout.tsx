@@ -10,8 +10,9 @@ import { SiteFooter } from "@/components/site-footer";
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
-  name:"google-adsense-account",
-  content:"ca-pub-7045075277601936"
+
+title:"Lutfiyadi Blog"
+
 };
 
 export const viewport: Viewport = {
