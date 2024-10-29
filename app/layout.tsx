@@ -13,6 +13,7 @@ export const metadata: Metadata = {
   title: siteConfig.name,
   description: siteConfig.description,
   metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL ?? siteConfig.url),
+  name:"google-adsense-account" content="ca-pub-7045075277601936"
 };
 
 export const viewport: Viewport = {
